@@ -1,0 +1,12 @@
+[install]
+# Use exact versions for dependencies
+exact = true
+
+# Enable the bun.lockb file
+lockfile = true
+
+# Use the global cache
+cache = true
+
+# Specify the registry to use
+registry = "https://registry.npmjs.org/" 
